@@ -1,0 +1,28 @@
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040C04E4"
+	{
+		VALUE "CompanyName", "Created by [big_fury]SiZiOUS"
+		VALUE "FileDescription", "UnMultiBoot for Cobra ViperGC MultiBoot Game Cube GCM Images"
+		VALUE "FileVersion", "1.0.0.0"
+		VALUE "InternalName", "unmboot.exe"
+		VALUE "LegalCopyright", "© Copyright 2002-2006"
+		VALUE "LegalTrademarks", "Game Cube is a trademark of Nintendo."
+		VALUE "OriginalFilename", "unmboot.exe"
+		VALUE "ProductName", "UnMultiBoot"
+		VALUE "ProductVersion", "1.0.0.0"
+		VALUE "Comments", "http://sbibuilder.shorturl.com/"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x040C 0x04E4
+}
+}
